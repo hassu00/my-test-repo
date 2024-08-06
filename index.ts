@@ -1,2 +1,3 @@
-let greet ="hello world"
-console.log(greet);
+let greet ="hello "
+let name ="hassu"
+console.log(`${greet} ${name} how are you`);
